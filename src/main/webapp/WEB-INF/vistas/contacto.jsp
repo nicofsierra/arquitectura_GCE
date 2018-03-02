@@ -24,7 +24,7 @@
 				method="POST">
 
 				<div class="form-group row">
-					<div class="col-xs-3">
+					<div class="col-xs-6">
 						<label for="nombre">Nombre</label>
 						<form:input path="nombre" type="text" class="form-control"
 							id="nombre" required="required"/>
@@ -32,7 +32,7 @@
 				</div>
 
 				<div class="form-group row">
-					<div class="col-xs-3">
+					<div class="col-xs-6">
 						<label for="email">Correo</label>
 						<form:input path="email" type="email" class="form-control"
 							id="email" required="required"/>
