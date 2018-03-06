@@ -21,6 +21,7 @@
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <!--  Fuente -->
 <link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet"> 
 <!-- Estilo -->
 <link href="css/estilos.css" rel="stylesheet">
 <!-- Titulo -->

@@ -1,6 +1,4 @@
 <div class="row">
-	<h3>Vivienda Unifamiliar</h3>
-	<p>Club de Campo Las Perdices - Virrey del Pino - La Matanza - Sup. cubierta 260 m2</p>
 	<div class="col-md-2">
 		<div class="thumbnail">
 			<a href="img/fotos/1.jpg"> <img

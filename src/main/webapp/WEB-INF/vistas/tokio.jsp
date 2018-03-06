@@ -1,6 +1,4 @@
 <div class="row">
-	<h3>Vivienda Unifamiliar</h3>
-	<p>Tokio 2950 - Isidro Casanova - Sup. cubierta 280 m2</p>
 	<div class="col-md-2">
 		<div class="thumbnail">
 			<a href="img/fotosvivienda/DSC02136.JPG"> <img

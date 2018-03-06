@@ -35,25 +35,25 @@
 					<div class="item active">
 						<img src="img/fotos/4.jpg" alt="imagen1" width="600" heght="600">
 						<div class="carousel-caption">
-							<h3>Vivienda Unifamiliar</h3>
-							<p>Club de Campo Las Perdices - Virrey del Pino - La Matanza
-								- Sup. cubierta 260 m2</p>
+							<h2>Vivienda Unifamiliar</h2>
+							<h4>Club de Campo Las Perdices - La Matanza
+								- Sup. cubierta 260 m2</h4>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="img/fotos2/pers3.jpg" alt="imagen1">
 						<div class="carousel-caption">
-							<h3>Vivienda Unifamiliar</h3>
-							<p>La Alameda Barrio Privado & Spa - Sup. cubierta 260 m2</p>
+							<h2>Vivienda Unifamiliar</h2>
+							<h4>La Alameda Barrio Privado & Spa - Sup. cubierta 260 m2</h4>
 						</div>
 					</div>
 
 					<div class="item">
 						<img src="img/fotosvivienda/SAM_3190.JPG" alt="imagen3">
 						<div class="carousel-caption">
-							<h3>Vivienda Unifamiliar</h3>
-							<p>Tokio 2950 - Isidro Casanova - Sup. cubierta 280 m2</p>
+							<h2>Vivienda Unifamiliar</h2>
+							<h4>Isidro Casanova - Sup. cubierta 280 m2</h4>
 						</div>
 					</div>
 

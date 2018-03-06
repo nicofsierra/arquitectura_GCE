@@ -1,6 +1,4 @@
 <div class="row">
-	<h3>Vivienda Unifamiliar</h3>
-	<p>La Alameda Barrio Privado & Spa - Sup. cubierta 260 m2</p>
 	<div class="col-md-2">
 		<div class="thumbnail">
 			<a href="img/fotos2/frente.jpg"> <img

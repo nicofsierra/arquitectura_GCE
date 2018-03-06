@@ -1,34 +1,47 @@
 @CHARSET "UTF-8";
 
-img{
+img {
 	display: inline;
 	/*margin-left: 45%;*/
 }
 
-h1{
+h1 {
 	display: inline;
-    font-family: 'Reenie Beanie', cursive;
-/*     font-family: 'Great Vibes', cursive;  */
+	font-family: 'Reenie Beanie', cursive;
+	/*     font-family: 'Great Vibes', cursive;  */
 	font-size: 60px;
 	color: grey;
 	opacity: 0.5;
 }
 
-.carousel-inner > .item > img {
-    margin: 0 auto;
+.carousel-inner>.item>img {
+	margin: 0 auto;
 }
 
-footer{
-background-color: white;
+/*footer {
+	background-color: white;
+	position: absolute;
+	bottom: 5%;
+	width: 95%;
+	height: 80px;
+	border: 0;
+}*/
+
+footer {
+  background-color: white;
   position: absolute;
-  bottom: 5%;
-  width: 95%;
+  bottom: 0;
+  width: 80%;
   height: 80px;
-  border: 0;
+  color: grey;
+  padding: 0;
 }
 
+h3,p{
+	color: grey;
+	font-family: 'Josefin Sans', sans-serif;
+}
 
-
-.formulario-centro{
+.formulario-centro {
 	padding: 0 0 0 25%;
 }
