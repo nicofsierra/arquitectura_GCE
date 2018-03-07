@@ -22,5 +22,10 @@ public class ControladorFront {
 	public ModelAndView irAObras(){
 		return new ModelAndView("obras");
 	}
+	
+	@RequestMapping(path="/proyectos")
+	public ModelAndView irAProyectos(){
+		return new ModelAndView("proyectos");
+	}
 
 }

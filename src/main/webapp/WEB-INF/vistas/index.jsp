@@ -16,6 +16,7 @@
 					<li class="active"><a href="#">Inicio</a></li>
 					<li><a href="contacto">Contacto</a></li>
 					<li><a href="obras">Obras</a></li>
+					<li><a href="proyectos">Proyectos</a></li>
 				</ul>
 			</div>
 		</nav>
@@ -36,8 +37,8 @@
 						<img src="img/fotos/4.jpg" alt="imagen1" width="600" heght="600">
 						<div class="carousel-caption">
 							<h2>Vivienda Unifamiliar</h2>
-							<h4>Club de Campo Las Perdices - La Matanza
-								- Sup. cubierta 260 m2</h4>
+							<h4>Club de Campo Las Perdices - La Matanza - Sup. cubierta
+								260 m2</h4>
 						</div>
 					</div>
 
@@ -71,12 +72,12 @@
 				</div>
 			</div>
 		</section>
-<!-- 		<footer> -->
-<!-- 			<div class="panel-footer"> -->
-<!-- 				<h5>Correo electr&oacutenico: estudio.greco@live.com.ar</h5> -->
-<!-- 				<h5>Tel&eacutefono: 11 - 6041 - 4847</h5> -->
-<!-- 			</div> -->
-<!-- 		</footer> -->
+		<!-- 		<footer> -->
+		<!-- 			<div class="panel-footer"> -->
+		<!-- 				<h5>Correo electr&oacutenico: estudio.greco@live.com.ar</h5> -->
+		<!-- 				<h5>Tel&eacutefono: 11 - 6041 - 4847</h5> -->
+		<!-- 			</div> -->
+		<!-- 		</footer> -->
 
 
 	</div>

@@ -15,6 +15,8 @@
 					<li><a href="index">Inicio</a></li>
 					<li class="active"><a href="#">Contacto</a></li>
 					<li><a href="obras">Obras</a></li>
+					<li><a href="proyectos">Proyectos</a></li>
+
 				</ul>
 			</div>
 		</nav>
@@ -27,7 +29,7 @@
 					<div class="col-xs-6">
 						<label for="nombre">Nombre</label>
 						<form:input path="nombre" type="text" class="form-control"
-							id="nombre" required="required"/>
+							id="nombre" required="required" />
 					</div>
 				</div>
 
@@ -35,7 +37,7 @@
 					<div class="col-xs-6">
 						<label for="email">Correo</label>
 						<form:input path="email" type="email" class="form-control"
-							id="email" required="required"/>
+							id="email" required="required" />
 					</div>
 				</div>
 
@@ -43,14 +45,15 @@
 					<div class="col-xs-4">
 						<label for="comentario">Comentario</label>
 						<form:textarea path="comentario" rows="5" cols="50"
-							name="comentario" id="comentario" maxlength="250" required="required" />
+							name="comentario" id="comentario" maxlength="250"
+							required="required" />
 					</div>
 				</div>
 
 				<button type="submit" class="btn btn-default">Enviar</button>
 			</form:form>
 		</section>
-		
+
 		<%@include file="../../includes/footer.jsp"%>
 
 	</div>
