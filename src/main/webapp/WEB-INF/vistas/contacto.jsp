@@ -21,37 +21,55 @@
 			</div>
 		</nav>
 
-		<section class="formulario-centro">
-			<form:form action="procesar-contacto" modelAttribute="contacto"
-				method="POST">
-
-				<div class="form-group row">
-					<div class="col-xs-6">
-						<label for="nombre">Nombre</label>
-						<form:input path="nombre" type="text" class="form-control"
-							id="nombre" required="required" />
+		<section>
+ 			<div class="recuadro-form"> 
+				
+				
+				<div class="imagen-izq-form">
+					<div class="icon-center">
+						<span class="glyphicon glyphicon-envelope"></span>
+					</div>
+					<div class="leyenda-contacto">
+						<h3 class="contacto_h3">Contacto con Estudio Greco</h3>
 					</div>
 				</div>
+				
+				<div class="form-derecha">
 
-				<div class="form-group row">
-					<div class="col-xs-6">
-						<label for="email">Correo</label>
-						<form:input path="email" type="email" class="form-control"
-							id="email" required="required" />
-					</div>
+					<form:form action="procesar-contacto" modelAttribute="contacto"
+						method="POST">
+
+						<div class="form-group row">
+							<div class="col-xs-7">
+								<label for="nombre">Nombre</label>
+								<form:input path="nombre" type="text" class="form-control"
+									id="nombre" required="required" />
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<div class="col-xs-7">
+								<label for="email">Correo</label>
+								<form:input path="email" type="email" class="form-control"
+									id="email" required="required" />
+							</div>
+						</div>
+
+						<div class="form-group row">
+							<div class="col-xs-4">
+								<label for="comentario">Comentario</label>
+								<form:textarea path="comentario" rows="5" cols="50"
+									name="comentario" id="comentario" maxlength="250"
+									required="required" />
+							</div>
+						</div>
+					
+						<button id="boton-form" type="submit" class="btn btn-default">Enviar</button>
+					</form:form>
+
 				</div>
-
-				<div class="form-group row">
-					<div class="col-xs-4">
-						<label for="comentario">Comentario</label>
-						<form:textarea path="comentario" rows="5" cols="50"
-							name="comentario" id="comentario" maxlength="250"
-							required="required" />
-					</div>
-				</div>
-
-				<button type="submit" class="btn btn-default">Enviar</button>
-			</form:form>
+			
+		</div> 
 		</section>
 
 		<%@include file="../../includes/footer.jsp"%>

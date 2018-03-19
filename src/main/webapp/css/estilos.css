@@ -42,11 +42,59 @@ h3,p{
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-.formulario-centro {
-	padding: 0 0 0 25%;
+.recuadro-form {
+	width: 100%;
+	height:100%;
+	border: 1px solid #dedede;
+	border-radius: 5px;
+	overflow: hidden;
 }
 
 .tnimg{
 	width: 50%;
 	height: 50px;
 }
+
+.form-derecha{
+	width: 70%;
+	height: auto;
+	float:right;
+	padding-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	border-left: 1px solid #dedede;
+	
+}
+
+.imagen-izq-form{
+	float: left;
+	height: auto;
+	width: 28%;
+	margin: 10% 0% 0% 2%;
+	/*background-color: #f3f3f3;*/
+	
+}
+
+.glyphicon.glyphicon-envelope{
+	font-size: 100px;
+	color: grey;
+}
+
+.icon-center{
+	margin-left: 33%;
+	
+}
+
+.leyenda-contacto{
+	margin-left: 0%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.contacto_h3{
+	color: grey;
+}
+
+#boton-form{
+	margin-left: 20%;
+}
+
