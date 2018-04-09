@@ -22,14 +22,20 @@
 		</nav>
 
 		<section>
-
-
-			<div class="panel panel-default">
-				<h3>Vivienda Unifamiliar</h3>
-				<p>Isidro Casanova - Sup. cubierta 280 m2</p>
-				<%@include file="tokio.jsp"%>
+			<div class="row">
+				<div class="col-lg-4">
+					<h3 class="text-center">Vivienda Unifamiliar</h3>
+					<p class="text-center">Isidro Casanova</p>
+					<a href="tokio"><img id="portada1" height="250" width="250"
+						src="img/fotosvivienda/SAM_2769.JPG" /></a>
+				</div>
+				<div class="col-lg-4">
+					<h3 class="text-center">Vivienda Unifamiliar</h3>
+					<p class="text-center"> Villegas - San Justo</p>
+					<a href="villegas"><img id="portada1" height="250" width="250"
+						src="img/villegas/foto5.jpg" /></a>
+				</div>
 			</div>
-	
 		</section>
 
 

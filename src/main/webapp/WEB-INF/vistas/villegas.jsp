@@ -24,59 +24,49 @@
 		<section>
 			<div class="center-block" style="margin-top: 5%;">
 				<h3 class="text-center">Vivienda Unifamiliar</h3>
-				<h3 class="text-center">Isidro Casanova</h3>
+				<h3 class="text-center">Villegas - San Justo - Sup. Cubierta: 260.00 m2</h3>
 			</div>
 			<div class="row" style="margin-top: 5%;">
 				<div class="col-md-2">
 					<div class="thumbnail">
-						<a href="img/fotosvivienda/DSC02136.JPG"> <img
-							src="img/fotosvivienda/DSC02136.JPG" alt="Imagen0"
+						<a href="img/villegas/foto1.jpg"> <img
+							src="img/villegas/foto1.jpg" alt="Imagen0"
 							style="width: 100%">
 						</a>
 					</div>
 				</div>
 				<div class="col-md-2">
 					<div class="thumbnail">
-						<a href="img/fotosvivienda/DSC02825.JPG"> <img
-							src="img/fotosvivienda/DSC02825.JPG" alt="Imagen1"
+						<a href="img/villegas/foto2.jpg"> <img
+							src="img/villegas/foto2.jpg" alt="Imagen1"
 							style="width: 100%">
 						</a>
 					</div>
 				</div>
 				<div class="col-md-2">
 					<div class="thumbnail">
-						<a href="img/fotosvivienda/SAM_2769.JPG"> <img
-							src="img/fotosvivienda/SAM_2769.JPG" alt="Imagen2"
+						<a href="img/villegas/foto4.jpg"> <img
+							src="img/villegas/foto4.jpg" alt="Imagen2"
 							style="width: 100%">
 						</a>
 					</div>
 				</div>
 				<div class="col-md-2">
 					<div class="thumbnail">
-						<a href="img/fotosvivienda/SAM_3190.JPG"> <img
-							src="img/fotosvivienda/SAM_3190.JPG" alt="Imagen3"
+						<a href="img/villegas/foto5.jpg"> <img
+							src="img/villegas/foto5.jpg" alt="Imagen3"
 							style="width: 100%">
 						</a>
 					</div>
 				</div>
 				<div class="col-md-2">
 					<div class="thumbnail">
-						<a href="img/fotosvivienda/SAM_3195.JPG"> <img
-							src="img/fotosvivienda/SAM_3195.JPG" alt="Imagen4"
+						<a href="img/villegas/foto6.jpg"> <img
+							src="img/villegas/foto6.jpg" alt="Imagen4"
 							style="width: 100%">
 						</a>
 					</div>
 				</div>
-				<div class="col-md-2">
-					<div class="thumbnail">
-						<a href="img/fotosvivienda/SAM_3197.JPG"> <img
-							src="img/fotosvivienda/SAM_3197.JPG" alt="Imagen5"
-							style="width: 100%">
-						</a>
-					</div>
-				</div>
-			</div>
-		</section>
-	</div>
+
 </body>
 </html>

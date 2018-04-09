@@ -22,32 +22,39 @@
 		</nav>
 
 		<section>
-
-			<div class="panel panel-default">
-				<h3>Vivienda Unifamiliar</h3>
-				<p>Club de Campo Las Perdices - Virrey del Pino - La Matanza -
-					Sup. cubierta 260 m2</p>
-				<%@include file="perdices.jsp"%>
+			<div class="row">
+				<div class="col-lg-4">
+					<h3 class="text-center">Vivienda Unifamiliar</h3>
+					<p class="text-center">Club de Campo Las Perdices</p>
+					<a href="perdices"><img id="portada1" height="250" width="250"
+						src="img/fotos/1.jpg" /></a>
+				</div>
+				<div class="col-lg-4">
+					<h3 class="text-center">Vivienda Unifamiliar</h3>
+					<p class="text-center">La Alameda Barrio Privado & Spa</p>
+					<a href="alameda"><img id="portada1" height="250" width="250"
+						src="img/fotos2/frente.jpg" /></a>
+				</div>
+				<div class="col-lg-4">
+					<h3 class="text-center">Vivienda Unifamiliar</h3>
+					<p class="text-center">Club de Campo</p>
+					<a href="clubcampo"><img id="portada1" height="250" width="250"
+						src="img/clubcampo/frente.jpg" /></a>
+				</div>
 			</div>
-			<div class="panel panel-default">
-				<h3>Vivienda Unifamiliar</h3>
-				<p>La Alameda Barrio Privado & Spa - Sup. cubierta 260 m2</p>
-				<%@include file="alameda.jsp"%>
-			</div>
-			<div class="panel panel-default">
-				<h3>Vivienda Unifamiliar</h3>
-				<p>Club de Campo- Ruta Nacional Nº 3 Km. 47.500 - Virrey del Pino - Sup. cubierta 198 m2</p>
-				<%@include file="clubcampo.jsp"%>
-			</div>
-			<div class="panel panel-default">
-				<h3>Sala de Exposiciones y Ventas</h3>
-				<p>Ruta Nacional Nº 3 Km. 27.700 - Sup. cubierta 770 m2</p>
-				<%@include file="expo.jsp"%>
-			</div>
-			<div class="panel panel-default">
-				<h3>Edificio de Departamentos, Cocheras y Locales Comerciales</h3>
-				<p>Entre Rìos 3237 - San Justo - Sup. cubierta 600 m2</p>
-				<%@include file="edificios.jsp"%>
+			<div class="row">
+				<div class="col-lg-4">
+					<h3 class="text-center">Sala de Exposiciones y Ventas</h3>
+					<p class="text-center">Ruta Nacional Nº 3 Km. 27.700</p>
+					<a href="expo"><img id="portada1" height="250" width="250"
+						src="img/expo/2.jpg" /></a>
+				</div>
+				<div class="col-lg-4">
+					<h3 class="text-center">Edificio de Departamentos</h3>
+					<p class="text-center">San Justo</p>
+					<a href="edificios"><img id="portada1" height="250" width="250"
+						src="img/edificios/OK1.jpg" /></a>
+				</div>
 			</div>
 		</section>
 
